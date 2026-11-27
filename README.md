@@ -127,17 +127,20 @@ Podľa hypotetickej Skybjakovej výživovej pyramídy pozostáva jeho strava z:
 ```text
        SKYBJAKOVA VÝŽIVOVÁ PYRAMÍDA
 
-              /\
-             /  \
-            / 70%\
-           /PIROHY\
-          /--------\
-         / 20% EGO  \
-        /------------\
-       / 9% SMOTANA   \
-      /----------------\
-     / 1% OSTATNÉ JEDLÁ \
-    /____________________\
+                  /\
+                 /  \
+                / 1% \
+               /  INÉ \
+              /--------\
+             /    9%    \
+            /KYSLÁ SMOTANA\
+           /--------------\
+          /      20%       \
+         /   MÚDROSŤ        \
+        /--------------------\
+       /                      \
+      /       70% PIROHY       \
+     /__________________________\
 ```
 
 Táto výživová pyramída nebola schválená žiadnou zdravotníckou organizáciou.
@@ -239,7 +242,6 @@ Ján Skybjak zostáva symbolom toho, že človek nepotrebuje vyvážený trénin
 <p align="center">
 
 # 140 KG NA BENCH.
-# 0 KG NA DREPY.
 # NEKONEČNO V BICEPSE.
 
 **TOTO JE SKILL ISSUE, CHLAPCI.**
